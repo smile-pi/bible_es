@@ -1,0 +1,85 @@
+BODY
+{
+    COLOR: darkblue;
+    BACKGROUND-REPEAT: repeat;
+    FONT-FAMILY: Verdana, Arial, Geneva, Helvetica, sans-serif;
+    BACKGROUND-COLOR: white;
+    TEXT-DECORATION: none
+}
+A:link
+{
+    FONT-WEIGHT: bolder;
+    COLOR: darkcyan;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+A:active
+{
+    FONT-WEIGHT: bolder;
+    COLOR: red;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    FONT-WEIGHT: bolder;
+    COLOR: darkgray;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    FONT-WEIGHT: bolder;
+    COLOR: white;
+    FONT-STYLE: normal;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    BACKGROUND-COLOR: silver;
+    TEXT-DECORATION: none
+}
+P
+{
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+UL
+{
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+H1
+{
+    FONT-SIZE: large;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+H2
+{
+    FONT-SIZE: medium;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-DECORATION: underline
+}
+H3
+{
+    FONT-SIZE: medium;
+    COLOR: midnightblue;
+    FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    TEXT-ALIGN: justify
+}
+ADDRESS
+{
+    FONT-SIZE: xx-small;
+    COLOR: darkblue;
+    FONT-STYLE: italic;
+    TEXT-ALIGN: center
+}
+BLOCKQUOTE
+{
+    FONT-WEIGHT: bolder;
+    TEXT-ALIGN: justify
+}
+
